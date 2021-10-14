@@ -9,6 +9,7 @@
 ## Social Media
 
 - https://www.linkedin.com/in/colin-faivre-020498136/
+- https://www.hackerrank.com/colin_faivre
 - https://twitter.com/colin_faivre
 
 I am passionate about building web apps and learning.
