@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 Senior Vue.js Developer
+- 🔭 Lead Frontend Developer @ [EcoCo2](https://www.ecoco2.com/)
 - 🌱 Web dev Mentor @ [Openclassrooms](https://openclassrooms.com/)
 - 👾 TS Web games hobbyist @ [Octodrome](https://github.com/octodrome)
 
