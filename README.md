@@ -13,4 +13,4 @@ Lead Front-End Engineer with proven expertise in Vue.js, refactoring and writing
 ## Connect with me
 
 - [Linkedin](https://www.linkedin.com/in/colin-faivre-020498136/)
-- [Email](colin.faivre@gmail.com)
+- [Email](mailto:colin.faivre@gmail.com?subject:[github])
