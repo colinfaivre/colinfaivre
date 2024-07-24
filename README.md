@@ -1,7 +1,7 @@
 # Colin Faivre
 
-🔭 Lead Front-End Engineer #opentowork
-👾 TS/Go Web games hobbyist @ [Octodrome](https://github.com/octodrome)
+- 🔭 Lead Front-End Engineer #opentowork
+- 👾 TS/Go Web games hobbyist @ [Octodrome](https://github.com/octodrome)
 
 ## About Me
 
@@ -17,8 +17,8 @@ Lead Front-End Engineer with proven expertise in Vue.js, refactoring and writing
 
 ## Professional Goals
 
-- __Career development__: Focused on furthering my career in software development, specifically in roles that leverage Lead experience or my __Go__ love story 
-- __Continuous learning__: Commited to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills with __Vue.js__ and __Go__
+- __Career development__: Focused on furthering my career in software development, specifically in roles that leverage Lead experience or feed my __Go__ deep interest.  
+- __Continuous learning__: Commited to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills with __Vue.js__ and __Go__.
 
 ## Connect with Me
 
