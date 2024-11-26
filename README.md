@@ -1,11 +1,11 @@
 # Colin Faivre
 
-- 🔭 Lead Front-End Engineer #opentowork
-- 👾 TS/Go Web games hobbyist @ [Octodrome](https://github.com/octodrome)
+- 🔭 Senior Software Engineer #opentowork
+- 👾 TS/Go Chess game hobbyist @ [Octodrome](https://github.com/octodrome)
 
 ## About Me
 
-Lead Front-End Engineer with proven expertise in Vue.js, refactoring and writing maintainable code. Passionate about building, learning, sharing knowledge and inspiring peers to grow. Deeply interested in best practices and tools to make my teammates work smoother and proud to deliver faster and safer. Seeking a team where I can start a full-stack ♥︎ story with the Go programming language.
+Front-End Engineer with proven expertise in Vue.js, refactoring and writing maintainable code. Passionate about building, learning, sharing knowledge and inspiring peers to grow. Deeply interested in best practices and tools to make my teammates work smoother and proud to deliver faster and safer. Seeking a team where I can start a full-stack ♥︎ story with the Go programming language and continue exploring DevOps.
 
 ## Technical Skills
 - __Languages__: Typescript, Javascript, Go, Bash
@@ -17,8 +17,8 @@ Lead Front-End Engineer with proven expertise in Vue.js, refactoring and writing
 
 ## Professional Goals
 
-- __Career development__: Focused on furthering my career in software development, specifically in roles that leverage Lead experience or feed my __Go__ deep interest.  
-- __Continuous learning__: Commited to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills with __Vue.js__ and __Go__.
+- __Career development__: Focused on furthering my career in software development, specifically in roles that leverage my Vue.js experience or feed my __Go__ or __DevOps__ deep interest.  
+- __Continuous learning__: Commited to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills with __Vue.js__, __Go__ and __DevOps__.
 
 ## Connect with Me
 
