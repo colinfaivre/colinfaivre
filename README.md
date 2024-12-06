@@ -1,4 +1,4 @@
-# Colin Faivre
+# Colin Faivre | Senior Software Engineer
 
 - Linkedin: https://www.linkedin.com/in/colin-faivre-020498136/
 - Email: colin.faivre@gmail.com
