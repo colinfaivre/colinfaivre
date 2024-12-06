@@ -1,8 +1,8 @@
 # Colin Faivre
 
-- [Linkedin](https://www.linkedin.com/in/colin-faivre-020498136/)
-- [Email](mailto:colin.faivre@gmail.com?subject=[github])
-- [Main Repository](https://github.com/octodrome)
+- Linkedin: https://www.linkedin.com/in/colin-faivre-020498136/
+- Email: colin.faivre@gmail.com
+- Main Repository: https://github.com/octodrome/chess
 
 ## Professional Summary
 
