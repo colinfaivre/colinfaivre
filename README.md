@@ -1,26 +1,22 @@
 # Colin Faivre
 
-- 🔭 Senior Software Engineer #opentowork
-- 👾 TS/Go Chess game hobbyist @ [Octodrome](https://github.com/octodrome)
+- [Linkedin](https://www.linkedin.com/in/colin-faivre-020498136/)
+- [Email](mailto:colin.faivre@gmail.com?subject=[github])
+- [Main Repository](https://github.com/octodrome)
 
 ## About Me
 
-Senior Front-End Engineer with proven expertise in Vue.js, refactoring and writing maintainable code. Passionate about building, learning, sharing knowledge and inspiring peers to grow. Deeply interested in best practices and tools to make my teammates work smoother and proud to deliver faster and safer. Seeking a team where I can start a full-stack ♥︎ story with the Go programming language and continue exploring DevOps.
+Senior Software Engineer with 7 years of experience delivering scalable software solutions, with a strong background in front-end development using Vue.js and TypeScript. Now expanding into full-stack development, building a chess web app with Go and Nuxt.js, leveraging Docker for streamlined deployment. Passionate about clean code, workflow optimization, and continuous learning, with a goal to contribute across the full software stack.
 
 ## Technical Skills
-- __Languages__: Typescript, Javascript, Go, Bash
-- __Libraries__: Vue, Nuxt, Pinia, Taiwind
-- __Tools__: Git, Github, Github actions, Vite, Vitest, Cypress, Storybook, Eslint, Prettier
+- __Soft__: Communication, Adaptability, Team Collaboration
+- __Languages__: Typescript, Javascript, Go, Node.js, Bash, SQL
+- __Libraries & Frameworks__: Vue 3, Nuxt 3, Pinia, Taiwind, Gin, Express
+- __Tools__: Git, Github, Github Actions, Vite, Vitest, Cypress, Storybook, Eslint, Prettier, Docker, Postman
+- __Other__: French (Native), English (Professional)
 
-## Key projects
-- __[Chess web app](https://github.com/octodrome/chess)__: A nuxt app to play against computer or connected users.
-
-## Professional Goals
-
-- __Career development__: Focused on furthering my career in software development, specifically in roles that leverage my Vue.js experience or feed my __Go__ or __DevOps__ deep interest.  
-- __Continuous learning__: Commited to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills with __Vue.js__, __Go__ and __DevOps__.
-
-## Connect with Me
-
-- [Linkedin](https://www.linkedin.com/in/colin-faivre-020498136/)
-- [Email](mailto:colin.faivre@gmail.com?subject=[github])
+## Projects
+### Chess App
+Building a full-stack chess app with Go, Nuxt and PostgreSQL, containerized and CI/CD-deployed on DigitalOcean.
+- Live Demo: http://165.22.119.201/
+- Github Repository: https://github.com/octodrome/chess
