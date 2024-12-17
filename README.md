@@ -8,7 +8,10 @@
 [![Coursera](https://img.shields.io/badge/California_Institute_of_the_Arts-UI_UX_Design-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/CNFBDZFEL8EZ)
 [![Coursera](https://img.shields.io/badge/Deeplearning.ai-Deep_Learning-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/45ZLWS394SJD)
 
-# Colin Faivre | Senior Software Engineer [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/colin-faivre/)
+# Colin Faivre | Senior Software Engineer 
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/colin-faivre/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colin.faivre@gmail.com)
 
 Senior Software Engineer with 7 years of experience delivering scalable software solutions, with a strong background in front-end development using Vue.js and TypeScript. Now expanding into full-stack development, building a chess web app with Go and Nuxt.js, leveraging Docker for streamlined deployment. Passionate about clean code, workflow optimization, and continuous learning, with a goal to contribute across the full software stack.
 
