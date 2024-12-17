@@ -1,3 +1,4 @@
+![cover image](./cover.jpg?raw=true)
 # Colin Faivre | Senior Software Engineer
 
 - Linkedin: https://www.linkedin.com/in/colin-faivre-020498136/
