@@ -3,6 +3,7 @@
 - Linkedin: https://www.linkedin.com/in/colin-faivre-020498136/
 - Email: colin.faivre@gmail.com
 - Main Repository: https://github.com/octodrome/chess
+- Leetcode: https://leetcode.com/u/colinfaivre/
 
 ## Professional Summary
 
