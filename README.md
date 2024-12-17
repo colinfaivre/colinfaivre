@@ -21,7 +21,7 @@ Senior Software Engineer with 7 years of experience delivering scalable software
 
 ## ♟️ My Chess App
 Currently building a full-stack chess app with Go, Nuxt and PostgreSQL, containerized and CI/CD-deployed on DigitalOcean.
-- Live Demo: 🔥 http://165.22.119.201/
+- Live Demo: 🔥🔥 http://165.22.119.201/ 🐶☕🔥🔥 (this is fine)
 - Github Repository: https://github.com/octodrome/chess
 
 ![cover image](./app_screenshot.png?raw=true)
