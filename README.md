@@ -27,4 +27,4 @@ Currently building a full-stack chess app with Go, Nuxt and PostgreSQL, containe
 - Live Demo: 🔥🔥 http://165.22.119.201/ 🐶☕🔥🔥 (this is fine)
 - Github Repository: https://github.com/octodrome/chess
 
-![cover image](./app_screenshot.png?raw=true)
+![cover image](./chess_footer.jpg?raw=true)
