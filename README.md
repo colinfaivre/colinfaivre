@@ -1,4 +1,4 @@
-![cover image](./cover.jpg?raw=true)
+![cover image](./cover_2.png?raw=true)
 [![LeetCode user colinfaivre](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcolinfaivre&logo=leetcode&logoColor=yellow)](https://leetcode.com/colinfaivre/)
 [![Coursera](https://img.shields.io/badge/Stanford_University-Algorithms-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/JH9RQMPKRNH7)
 [![Coursera](https://img.shields.io/badge/California_Institute_of_the_Arts-Game_Design-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/GKXUNQCCLT8T)
