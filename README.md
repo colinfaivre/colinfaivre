@@ -16,12 +16,38 @@
 Senior Software Engineer with 7 years of experience delivering scalable software solutions, with a strong background in front-end development using Vue.js and TypeScript. Now expanding into full-stack development, building a chess web app with Go and Nuxt.js, leveraging Docker for streamlined deployment. Passionate about clean code, workflow optimization, and continuous learning, with a goal to contribute across the full software stack.
 
 ## 🏗️ My Skills
-- __Soft__: Communication, Adaptability, Team Collaboration
-- __Languages__: Typescript, Javascript, Go, Node.js, Bash, SQL
-- __Libraries & Frameworks__: Vue 3, Nuxt 3, Pinia, Taiwind, Gin, Express
-- __Tools__: Git, Github, Github Actions, Vite, Vitest, Cypress, Storybook, Eslint, Prettier, Docker, Postman
-- __Other__: 🇫🇷 🇬🇧 🧗 🎹
 
+__Languages__:
+
+> ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+> ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+> <br>
+> ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+> ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+  
+__Libraries__:
+
+> ![Vue.js](https://img.shields.io/badge/Vue3-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+> ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82)
+> <br>
+> ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+> ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+  
+__Tools__:
+
+> ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+> ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
+> ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+> ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+> <br>
+> ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+> ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B)
+> ![cypress](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e)
+> ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+> <br>
+> ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
+> ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
+  
 ## ♟️ I'm building a chess app for fun
 Currently building a full-stack chess app with Go, Nuxt and PostgreSQL, containerized and CI/CD-deployed on DigitalOcean.
 - Live Demo: 🔥🔥 http://165.22.119.201/ 🐶☕🔥🔥 (this is fine)
