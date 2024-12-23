@@ -15,8 +15,6 @@
 
 Senior Software Engineer with 7 years of experience delivering scalable software solutions, with a strong background in front-end development using Vue.js and TypeScript. Now expanding into full-stack development, building a chess web app with Go and Nuxt.js, leveraging Docker for streamlined deployment. Passionate about clean code, workflow optimization, and continuous learning, with a goal to contribute across the full software stack.
 
-## 🏗️ My Skills
-
 __Languages__:
 
 > ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
@@ -29,8 +27,9 @@ __Libraries__:
 
 > ![Vue.js](https://img.shields.io/badge/Vue3-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 > ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82)
-> <br>
 > ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+> <br>
+> ![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=flat&logoColor=white)
 > ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
   
 __Tools__:
