@@ -20,7 +20,7 @@ Senior Software Engineer with 7 years of experience delivering scalable software
 - __Languages__: Typescript, Javascript, Go, Node.js, Bash, SQL
 - __Libraries & Frameworks__: Vue 3, Nuxt 3, Pinia, Taiwind, Gin, Express
 - __Tools__: Git, Github, Github Actions, Vite, Vitest, Cypress, Storybook, Eslint, Prettier, Docker, Postman
-- __Other__: French (Native), English (Professional)
+- __Other__: 🇫🇷 🇬🇧 🧗 🎹
 
 ## ♟️ I'm building a chess app for fun
 Currently building a full-stack chess app with Go, Nuxt and PostgreSQL, containerized and CI/CD-deployed on DigitalOcean.
