@@ -17,6 +17,7 @@ Senior Software Engineer with 7 years of experience delivering scalable software
 
 __Languages__:
 
+> ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 > ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 > ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 > <br>
@@ -26,10 +27,10 @@ __Languages__:
 __Libraries__:
 
 > ![Vue.js](https://img.shields.io/badge/Vue3-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-> ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82)
+> ![Nuxt.js](https://img.shields.io/badge/Nuxt3-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82)
 > ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 > <br>
-> ![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=flat&logoColor=white)
+> ![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 > ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
   
 __Tools__:
@@ -41,8 +42,11 @@ __Tools__:
 > <br>
 > ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 > ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B)
+> ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat&logo=jest&logoColor=white)
 > ![cypress](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e)
 > ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+> ![Ginkgo](https://img.shields.io/badge/Ginkgo-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+> ![Gomega](https://img.shields.io/badge/Gomega-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 > <br>
 > ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 > ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
