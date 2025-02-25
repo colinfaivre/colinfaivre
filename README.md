@@ -13,7 +13,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/colin-faivre/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colin.faivre@gmail.com)
 
-Senior Software Engineer with 7 years of experience delivering scalable software solutions, with a strong background in front-end development using Vue.js and TypeScript. Now expanding into full-stack development, building a chess web app with Go and Nuxt.js, leveraging Docker for streamlined deployment. Passionate about clean code, workflow optimization, and continuous learning, with a goal to contribute across the full software stack.
+Full-Stack Software Engineer with 8 years of experience, specializing in front-end development with Vue.js, Nuxt.js, and TypeScript. Currently expanding back-end skills by enthusiastically exploring Go to optimize performance-critical parts of Node.js applications. Curious about DevOps, dedicated to workflow optimization, and committed to crafting clean, maintainable code. Thrives in collaborative environments that encourage innovation and continuous learning.
 
 
 > __Languages__:
@@ -53,9 +53,9 @@ Senior Software Engineer with 7 years of experience delivering scalable software
 > ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
 
   
-## ♟️ I'm building a chess app for fun
+## ♟️ I'm building a chess app for fun!
 Currently building a full-stack chess app with Go, Nuxt and PostgreSQL, containerized and CI/CD-deployed on DigitalOcean.
-- Live Demo: 🔥🔥 http://165.22.119.201/ 🐶☕🔥🔥 (this is fine)
+- Live Demo: https://nuxtchess.com
 - Github Repository: https://github.com/octodrome/chess
 
 ![cover image](./chess_footer.jpg?raw=true)
