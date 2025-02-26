@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/colin-faivre/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colin.faivre@gmail.com)
 [![NuxtChess Repo](https://img.shields.io/badge/NuxtChess-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/octodrome/chess)
-[![NuxtChess.com](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=white)](https://nuxtchess.com)
+[![NuxtChess.com](https://img.shields.io/badge/NuxtChess.com-002E3B?style=for-the-badge&logoColor=white)](https://nuxtchess.com)
 
 Full-Stack Software Engineer with 8 years of experience, specializing in front-end development with Vue.js, Nuxt.js, and TypeScript. Currently expanding back-end skills by enthusiastically exploring Go to optimize performance-critical parts of Node.js applications. Curious about DevOps, dedicated to workflow optimization, and committed to crafting clean, maintainable code. Thrives in collaborative environments that encourage innovation and continuous learning.
 
