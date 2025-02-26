@@ -1,17 +1,22 @@
-
+![cover image](./linkedin_cover.png?raw=true)
 # Colin Faivre | Senior Software Engineer 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/colin-faivre/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colin.faivre@gmail.com)
+[![NuxtChess Repo](https://img.shields.io/badge/NuxtChess-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/octodrome/chess)
+[![NuxtChess.com](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=white)](https://nuxtchess.com)
 
 Full-Stack Software Engineer with 8 years of experience, specializing in front-end development with Vue.js, Nuxt.js, and TypeScript. Currently expanding back-end skills by enthusiastically exploring Go to optimize performance-critical parts of Node.js applications. Curious about DevOps, dedicated to workflow optimization, and committed to crafting clean, maintainable code. Thrives in collaborative environments that encourage innovation and continuous learning.
 
-## ♟️ I'm building a chess app for fun!
-Currently building a full-stack chess app with Go, Nuxt and PostgreSQL, containerized and CI/CD-deployed on DigitalOcean.
-- Live Demo: https://nuxtchess.com
-- Github Repository: https://github.com/octodrome/chess
+## ♟️ Building a Full-Stack Chess App: NuxtChess
+I'm currently developing a chess web app for fun, designed for real-time play with Go, Nuxt, and PostgreSQL.
+It's containerized with Docker and features CI/CD deployment on DigitalOcean.
+- 🚀 Live Demo: https://nuxtchess.com
+- 📦 Github Repository: https://github.com/octodrome/chess
 
 ![cover image](./nuxtchess.gif?raw=true)
+
+## 🛠 Tech Stack
 
 > __Languages__:
 >
@@ -51,6 +56,8 @@ Currently building a full-stack chess app with Go, Nuxt and PostgreSQL, containe
 > ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
 
 ![cover image](./chess_footer.jpg?raw=true)
+
+## 🥲 I'm also trying to stop MOOCing
 
 [![LeetCode user colinfaivre](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcolinfaivre&logo=leetcode&logoColor=yellow)](https://leetcode.com/colinfaivre/)
 [![Coursera](https://img.shields.io/badge/Stanford_University-Algorithms-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/JH9RQMPKRNH7)
