@@ -1,12 +1,3 @@
-![cover image](./cover_2.png?raw=true)
-[![LeetCode user colinfaivre](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcolinfaivre&logo=leetcode&logoColor=yellow)](https://leetcode.com/colinfaivre/)
-[![Coursera](https://img.shields.io/badge/Stanford_University-Algorithms-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/JH9RQMPKRNH7)
-[![Coursera](https://img.shields.io/badge/California_Institute_of_the_Arts-Game_Design-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/GKXUNQCCLT8T)
-[![Coursera](https://img.shields.io/badge/California_Institute_of_the_Arts-Graphic_Design-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/TDS4RQ76CQW3)
-[![Coursera](https://img.shields.io/badge/Imperial_College_of_London-Mathematics_for_Machine_Learning-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/TZM3C7L43V95)
-[![Coursera](https://img.shields.io/badge/Hong_Kong_University-Server_Side_Development_with_Node.js-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/DF33K5SBSSRA)
-[![Coursera](https://img.shields.io/badge/California_Institute_of_the_Arts-UI_UX_Design-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/CNFBDZFEL8EZ)
-[![Coursera](https://img.shields.io/badge/Deeplearning.ai-Deep_Learning-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/45ZLWS394SJD)
 
 # Colin Faivre | Senior Software Engineer 
 
@@ -15,6 +6,12 @@
 
 Full-Stack Software Engineer with 8 years of experience, specializing in front-end development with Vue.js, Nuxt.js, and TypeScript. Currently expanding back-end skills by enthusiastically exploring Go to optimize performance-critical parts of Node.js applications. Curious about DevOps, dedicated to workflow optimization, and committed to crafting clean, maintainable code. Thrives in collaborative environments that encourage innovation and continuous learning.
 
+## ♟️ I'm building a chess app for fun!
+Currently building a full-stack chess app with Go, Nuxt and PostgreSQL, containerized and CI/CD-deployed on DigitalOcean.
+- Live Demo: https://nuxtchess.com
+- Github Repository: https://github.com/octodrome/chess
+
+![cover image](./nuxtchess.gif?raw=true)
 
 > __Languages__:
 >
@@ -53,10 +50,13 @@ Full-Stack Software Engineer with 8 years of experience, specializing in front-e
 > ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 > ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
 
-  
-## ♟️ I'm building a chess app for fun!
-Currently building a full-stack chess app with Go, Nuxt and PostgreSQL, containerized and CI/CD-deployed on DigitalOcean.
-- Live Demo: https://nuxtchess.com
-- Github Repository: https://github.com/octodrome/chess
-
 ![cover image](./chess_footer.jpg?raw=true)
+
+[![LeetCode user colinfaivre](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcolinfaivre&logo=leetcode&logoColor=yellow)](https://leetcode.com/colinfaivre/)
+[![Coursera](https://img.shields.io/badge/Stanford_University-Algorithms-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/JH9RQMPKRNH7)
+[![Coursera](https://img.shields.io/badge/California_Institute_of_the_Arts-Game_Design-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/GKXUNQCCLT8T)
+[![Coursera](https://img.shields.io/badge/California_Institute_of_the_Arts-Graphic_Design-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/TDS4RQ76CQW3)
+[![Coursera](https://img.shields.io/badge/Imperial_College_of_London-Mathematics_for_Machine_Learning-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/TZM3C7L43V95)
+[![Coursera](https://img.shields.io/badge/Hong_Kong_University-Server_Side_Development_with_Node.js-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/DF33K5SBSSRA)
+[![Coursera](https://img.shields.io/badge/California_Institute_of_the_Arts-UI_UX_Design-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/CNFBDZFEL8EZ)
+[![Coursera](https://img.shields.io/badge/Deeplearning.ai-Deep_Learning-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/45ZLWS394SJD)
